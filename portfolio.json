@@ -15,7 +15,7 @@
   },
   {
     "project_name": "CrCrypto",
-    "image_url": "https://devinveney.github.io/portfolio.json/assets/crcrypto.png",
+    "image_url": "https://devinveney.github.io/Portfolio-Backend/portfolio.json/assets/crcrypto.png",
     "description": "**Introducing CrCrypto: Your Gateway to Digital Wealth** CrCrypto is a cutting-edge cryptocurrency exchange web application that empowers you to explore the exciting world of digital assets with ease and security. With our user-friendly platform, you can buy, sell, and trade a wide range of cryptocurrencies effortlessly. Experience lightning-fast transactions, robust security measures, and real-time market data to make informed investment decisions. Whether you're a seasoned trader or just starting your crypto journey, CrCrypto provides the tools and resources you need to harness the potential of the blockchain revolution. Join us today and dive into the future of finance!",
     "source_link": "https://crypto-nextjs-sigma.vercel.app/#home-section",
     "live_link": "https://crypto-nextjs-sigma.vercel.app/#home-section",
@@ -30,7 +30,7 @@
   },
   {
     "project_name": "PaidIn",
-    "image_url": "https://devinveney.github.io/portfolio.json/assets/paidin.png",
+    "image_url": "https://devinveney.github.io/Portfolio-Backend/portfolio.json/assets/paidin.png",
     "description": "**PaidIn: Your Financial Lifeline** PaidIn is your ultimate finance managing web application, designed to simplify and elevate your financial life. Take control of your money with ease through our intuitive interface. Track expenses, set budgets, and achieve your financial goals effortlessly. With powerful analytics and automated transaction categorization, you'll gain invaluable insights into your spending patterns. Stay organized and secure with bank-level encryption, and seamlessly link your accounts for a comprehensive overview of your financial health. Whether you're saving for a dream vacation or planning for retirement, PaidIn is your trusted partner for financial success. Get started today and experience the peace of mind that comes from being in control of your finances.",
     "source_link": "https://paidin-nextjs.vercel.app/#product",
     "live_link": "https://paidin-nextjs.vercel.app/#product",
@@ -46,7 +46,7 @@
   },
   {
     "project_name": "E-Learning",
-    "image_url": "https://devinveney.github.io/portfolio.json/assets/elearning.png",
+    "image_url": "https://devinveney.github.io/Portfolio-Backend/portfolio.json/assets/elearning.png",
     "description": "E-learning: Unlock Engineering Excellence Online Discover the gateway to engineering mastery with our cutting-edge web application, E-learning. Dive into a world of knowledge as we offer a diverse range of courses designed to hone your engineering skills. Whether you're a novice or a seasoned professional, our platform provides expert-led courses that cater to all levels.",
     "source_link": "https://nextstep-learning.vercel.app/",
     "live_link": "https://nextstep-learning.vercel.app/",
