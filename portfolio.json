@@ -14,160 +14,50 @@
     ]
   },
   {
-    "project_name": "Food on Rails",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/for.png",
-    "description": "Food-On-Rails is a website for managing food inventory and creating/publishing recipes. Ideal for food enthusiasts seeking organization and recipe inspiration. It has a user authentication system with special privileges.",
-    "source_link": "https://github.com/PrantoshB/Food-On-Rails",
-    "live_link": "https://food-on-rail.onrender.com/",
+    "project_name": "CrCrypto",
+    "image_url": "https://devinveney.github.io/portfolio.json/assets/crcrypto.png",
+    "description": "**Introducing CrCrypto: Your Gateway to Digital Wealth** CrCrypto is a cutting-edge cryptocurrency exchange web application that empowers you to explore the exciting world of digital assets with ease and security. With our user-friendly platform, you can buy, sell, and trade a wide range of cryptocurrencies effortlessly. Experience lightning-fast transactions, robust security measures, and real-time market data to make informed investment decisions. Whether you're a seasoned trader or just starting your crypto journey, CrCrypto provides the tools and resources you need to harness the potential of the blockchain revolution. Join us today and dive into the future of finance!",
+    "source_link": "https://crypto-nextjs-sigma.vercel.app/#home-section",
+    "live_link": "https://crypto-nextjs-sigma.vercel.app/#home-section",
     "tech_stack": [
-      "Ruby on Rails",
+      "Nextjs",
       "CSS",
-      "PostgreSQL",
-      "Devise",
-      "CanCanCan"
+      "React",
+      "Tailwindcss",
+      "JavaScript",
+      "HTML"
     ]
   },
   {
-    "project_name": "Space Tourism",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/space-tourism.jpeg",
-    "description": "A website with 4 pages to explore the space. The UI of the website is taken from a Figma file provided by Frontend Mentor.",
-    "source_link": "https://github.com/PrantoshB/Space-Tourism",
-    "live_link": "https://prantoshb.github.io/Space-Tourism/",
+    "project_name": "PaidIn",
+    "image_url": "https://devinveney.github.io/portfolio.json/assets/paidin.png",
+    "description": "**PaidIn: Your Financial Lifeline** PaidIn is your ultimate finance managing web application, designed to simplify and elevate your financial life. Take control of your money with ease through our intuitive interface. Track expenses, set budgets, and achieve your financial goals effortlessly. With powerful analytics and automated transaction categorization, you'll gain invaluable insights into your spending patterns. Stay organized and secure with bank-level encryption, and seamlessly link your accounts for a comprehensive overview of your financial health. Whether you're saving for a dream vacation or planning for retirement, PaidIn is your trusted partner for financial success. Get started today and experience the peace of mind that comes from being in control of your finances.",
+    "source_link": "https://paidin-nextjs.vercel.app/#product",
+    "live_link": "https://paidin-nextjs.vercel.app/#product",
     "tech_stack": [
       "HTML",
       "CSS",
       "JavaScript",
-      "JSON",
-      "Figma"
+      "Nextjs",
+      "Figma",
+      "Tailwindcss",
+      "React"
     ]
   },
   {
-    "project_name": "RSM Exhibition",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/rsm.jpeg",
-    "description": "A web application for RSM Mathematics Exhibition 2022 that allow users to get information about the program.",
-    "source_link": "https://github.com/PrantoshB/RSM-Mathematics-Exhibition-2022",
-    "live_link": "https://prantoshb.github.io/RSM-Mathematics-Exhibition-2022/",
+    "project_name": "E-Learning",
+    "image_url": "https://devinveney.github.io/portfolio.json/assets/elearning.png",
+    "description": "E-learning: Unlock Engineering Excellence Online Discover the gateway to engineering mastery with our cutting-edge web application, E-learning. Dive into a world of knowledge as we offer a diverse range of courses designed to hone your engineering skills. Whether you're a novice or a seasoned professional, our platform provides expert-led courses that cater to all levels.",
+    "source_link": "https://nextstep-learning.vercel.app/",
+    "live_link": "https://nextstep-learning.vercel.app/",
     "tech_stack": [
+      "Nextjs",
+      "React",
+      "HTML",
       "HTML",
       "CSS",
       "JavaScript"
-    ]
-  },
-  {
-    "project_name": "Monito Pet Store",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/monito.png",
-    "description": "Monito Pet Store is an e-commerce store for pets and pet-items.",
-    "source_link": "N/A",
-    "live_link": "N/A",
-    "tech_stack": [
-      "Vite + React",
-      "Ruby on Rails",
-      "SCSS"
-    ]
-  },
-  {
-    "project_name": "Know Your Buddies",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/kyb.png",
-    "description": "A web application where users can check if someone whom they are following on GitHub is following them back or not. It uses GitHub API to fetch data.",
-    "source_link": "https://prantoshb.github.io/Know-Your-Buddies",
-    "live_link": "https://prantoshb.github.io/Know-Your-Buddies",
-    "tech_stack": [
-      "React",
-      "CSS",
-      "JavaScript",
-      "GitHub API"
-    ]
-  },
-  {
-    "project_name": "Adidas Clone",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/adidas.png",
-    "description": "A design clone of the Adidas website. Static website built with React and CSS.",
-    "source_link": "N/A",
-    "live_link": "N/A",
-    "tech_stack": [
-      "React",
-      "CSS",
-      "JavaScript"
-    ]
-  },
-  {
-    "project_name": "PVR Mobile App",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/pvr.png",
-    "description": "A mobile application to book movie tickets. It has stripe payment gateway for online transactions. It also has a QR code scanner to scan the ticket.",
-    "source_link": "https://github.com/PrantoshB/PVR-React-Native",
-    "live_link": "https://github.com/PrantoshB/PVR-React-Native",
-    "tech_stack": [
-      "React Native",
-      "Express",
-      "Firebase",
-      "Stripe"
-    ]
-  },
-  {
-    "project_name": "Envira Direct",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/envira-direct.png",
-    "description": "Envira Direct is a leading supplier of water treatment systems and components for the residential, commercial, and industrial markets. It uses stripe split payment method for online transactions.",
-    "source_link": "N/A",
-    "live_link": "N/A",
-    "tech_stack": [
-      "WordPress",
-      "CSS",
-      "JavaScript",
-      "Woocommerce",
-      "Stripe"
-    ]
-  },
-  {
-    "project_name": "BMI Calculator",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/bmi.png",
-    "description": "A web application to calculate BMI. It uses the BMI formula to calculate the BMI.",
-    "source_link": "https://github.com/PrantoshB/BMI-Calculator",
-    "live_link": "https://github.com/PrantoshB/BMI-Calculator",
-    "tech_stack": [
-      "Flutter",
-      "Dart"
-    ]
-  },
-  {
-    "project_name": "PokéDex",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/pokedex.png",
-    "description": "A web application to get information about Pokémons. It uses PokéAPI to fetch data.",
-    "source_link": "https://github.com/PrantoshB/JavaScript-Capstone",
-    "live_link": "https://prantoshb.github.io/JavaScript-Capstone/dist/",
-    "tech_stack": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Webpack",
-      "Jest",
-      "PokéAPI"
-    ]
-  },
-  {
-    "project_name": "CRP Academy",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/crp.png",
-    "description": "CRP Academy is a mobile application for a popular edtech company. It has live class, live chat with instructors, Inbuilt video player and PDF reader and many more features.",
-    "source_link": "N/A",
-    "live_link": "N/A",
-    "tech_stack": [
-      "Flutter",
-      "Dart",
-      "Firebase",
-      "YouTube API",
-      "OpenSignal API"
-    ]
-  },
-  {
-    "project_name": "FixOn",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/fixon.png",
-    "description": "FixOn is a mobile application for a startup company. It is a platform where users can book services like plumbing, electrician, carpenter, etc. It has Razorpay payment gateway for online transactions.",
-    "source_link": "N/A",
-    "live_link": "N/A",
-    "tech_stack": [
-      "Flutter",
-      "Dart",
-      "Firebase",
-      "Razorpay"
     ]
   }
+ 
 ]
