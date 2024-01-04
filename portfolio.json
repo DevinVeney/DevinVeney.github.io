@@ -1,18 +1,5 @@
 [
-  /*{
-    "project_name": "WonderShop",
-    "image_url": "https://DevinVeney.github.io/Portfolio-Backend/assets/wondershop.png",
-    "description": "A Full-Stack web application, where users can reserve home services like Electrician, Plumber, Gardening etc. User can also delete the reservation. The Admin can add new services and delete existing services.",
-    "source_link": "https://wonder-shop.vercel.app/",
-    "live_link": "https://wonder-shop.vercel.app/",
-    "tech_stack": [
-      "React",
-      "Nextjs",
-      "MongoDb",
-      "MaterialUi"
-      
-    ]
-  },*/
+  
   {
     "project_name": "CrCrypto",
     "image_url": "https://DevinVeney.github.io/Portfolio-Backend/assets/crcrypto.png",
