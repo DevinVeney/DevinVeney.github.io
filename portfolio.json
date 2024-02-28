@@ -1,5 +1,16 @@
 [
-  
+  {
+    "project_name": "TNT Customz",
+    "image_url": "https://DevinVeney.github.io/Portfolio-Backend/assets/tntcustomz.png",
+    "description": "TNT Customz is your #1 destination to buy everything you need for party and event snacks",
+    "source_link": "https://tnt-customz.com/",
+    "live_link": "https://tnt-customz.com/",
+    "tech_stack": [
+      "HTML",
+      "CSS",
+      "Liquid"
+    ]
+  },
   {
     "project_name": "CrCrypto",
     "image_url": "https://DevinVeney.github.io/Portfolio-Backend/assets/crcrypto.png",
